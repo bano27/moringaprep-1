@@ -1,22 +1,22 @@
-#main-header{background-color: red;
+  #main-header{background-color: red;
   color: black;
   font-size: 1.5em;
-border-style: solid;
-border-width: 2px;
-box-sizing: border-box;
-padding: 30px 30px;
-margin: auto;}
+  border-style: solid;
+  border-width: 2px;
+  box-sizing: border-box;
+  padding: 30px 30px;
+  margin: auto;}
 
-.imagestyle{position: absolute;
-width: 178px;
-right: 10px;
-top: 1.75%;
-border-radius: 50%;}
+  .imagestyle{position: absolute;
+    width: 178px;
+    right: 10px;
+    top: 1.75%;
+    border-radius: 50%;}
 
-.styling{background-color: grey;
-color: black;
-box-sizing: border-box;
-border-style: solid;}
+    .styling{background-color: grey;
+      color: black;
+      box-sizing: border-box;
+      border-style: solid;}
 
-h2,h3,h4,h5,h6{text-transform: uppercase;
-font-size: 2em;}
+      h2,h3,h4,h5,h6{text-transform: uppercase;
+        font-size: 2em;}
