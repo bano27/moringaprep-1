@@ -1,19 +1,22 @@
-BY Benard Thairu KIBE
+#BY Benard Thairu KIBE
 
-My landing platform
+##My landing platform
+---
+This is a short program that gives a brief description of who i am as a person.
 
-A short program giving a brief description of who i am as a person.
-
-Technologies used include : HTML & css
+###TECHNOLOGIES USED
+Technologies used include : *html
+                            *css
 
 program setup instruction;
-    1:clone this repository to a location in your file system. https://github.com/bano27/moringaprep-1.git
-    2:Open your terminal and navigate to root folder of the application. cd moringaprep-1
-    3:Open project.html in your browser
+    1. clone this repository to a location in your file system.[link](https://github.com/bano27/moringaprep-1.git)
+    2. Open your terminal and navigate to root folder of the application. cd moringaprep-1
+    3. Open project.html in your browser
 
-follow this link to live version site on Github pages. https://github.com/bano27/moringaprep-1.git
+follow this link to live version site on Github pages.[link](https://bano27.github.io/moringaprep-1/)
 
-LICENSE
+---
+####LICENSE
 
 MIT Copyright (c) 2020 Benard Thairu Kibe
 
