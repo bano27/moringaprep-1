@@ -1,10 +1,10 @@
-#BY BENARD THAIRU KIBE
+# BY BENARD THAIRU KIBE
 
-##My landing platform
+## My landing platform
 ---
 This is a short program that gives a brief description of who i am as a person.
 ---
-###TECHNOLOGIES USED
+### TECHNOLOGIES USED
 Technologies used include : *html
                             *css
 
@@ -16,7 +16,7 @@ program setup instruction;
 follow this link to live version site on Github pages.[link](https://bano27.github.io/moringaprep-1/)
 
 ---
-####LICENSE
+#### LICENSE
 
 MIT Copyright (c) 2020 Benard Thairu Kibe
 
